@@ -1,3 +1,4 @@
+*.geojson filter=lfs diff=lfs merge=lfs -text
 output/generators.geojson filter=lfs diff=lfs merge=lfs -text
 output/substations.geojson filter=lfs diff=lfs merge=lfs -text
 output/lines.geojson filter=lfs diff=lfs merge=lfs -text
